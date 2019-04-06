@@ -129,3 +129,9 @@ a {
 a:hover {
     color: #6d4c41;
 }
+
+.date{
+  font-size: 0.9rem;
+  font-kerning: 5rem !important;
+  color: #ff6d00;
+}
